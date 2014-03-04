@@ -1,2 +1,3 @@
-puppet-zabbix
-=============
+zabbix
+
+This is the zabbix module.
